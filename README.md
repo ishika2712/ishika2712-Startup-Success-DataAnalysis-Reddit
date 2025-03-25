@@ -67,5 +67,7 @@ The extracted contexts were saved to a CSV file for further qualitative analysis
 This study shows that while core business principles like product development, customer focus, and financial management remain essential, digital marketing, social media, and online tools have reshaped how startups achieve these goals. Success today requires not only strong fundamentals but also a robust digital presence, resource efficiency, and adaptability. These findings highlight the importance of blending traditional business strategies with modern digital practices, offering a roadmap for entrepreneurs navigating the complexities of today’s startup environment. This research enhances our understanding of contemporary success factors and provides a foundation for further study on the impact of digital strategies in entrepreneurship.
 References:
 Saura, J.R.; Palos-Sanchez, P.; Grilo, A. Detecting Indicators for Startup Business Success: Sentiment Analysis Using Text Data Mining. Sustainability 2019, 11, 917. https://doi.org/10.3390/su11030917
+
 Saura, J.R.; Reyes-Menéndez, A.; deMatos, N.; Correia, M.B. Identifying Startups Business Opportunities from UGC on Twitter Chatting: An Exploratory Analysis. J. Theor. Appl. Electron. Commer. Res. 2021, 16, 1929-1944. https://doi.org/10.3390/jtaer16060108
+
 BINOWO, K., & HIDAYANTO, A. N. (2023). Discovering success factors in the pioneering stage of a digital startup. Organizacija, 56(1), 3–17. https://doi.org/10.2478/orga-2023-0001 
