@@ -48,6 +48,7 @@ Figure 1: Intertopic Distance Map and Top-30 Most Relevant Terms for Topic 1 in 
 
  # 4. Extraction of Top-Rated Words
 After generating the LDA topics, we extracted the highest-rated words across all topics based on their weights. This list of top words represented the most significant terms within our identified topics. We ranked words in descending order based on their relevance scores and selected the highest-rated terms  as key factors in startup success. 
+![image](https://github.com/user-attachments/assets/c10bff30-8ef2-494b-8753-45930c12c2ee)
 
  # 5. Contextual Analysis of Highest-Rated Words
 To gain deeper insights into how each top word was used in posts, we performed a contextual analysis. For each word in the list of top words, we retrieved sentences or snippets from the `Processed_Text` column where the word appeared. This involved:
@@ -65,7 +66,8 @@ The extracted contexts were saved to a CSV file for further qualitative analysis
 6. Financial Planning and Funding: Securing adequate funding and managing finances prudently were consistently identified as critical success factors. The importance of financial planning and funding acquisition for growth and stability reflects a traditional, yet still essential, pillar of startup success.
 7. Adaptability and Continuous Learning: Adaptability, resilience, and continuous learning are key traits for successful founders, allowing them to navigate challenges, innovate, and adjust based on feedback.
 This study shows that while core business principles like product development, customer focus, and financial management remain essential, digital marketing, social media, and online tools have reshaped how startups achieve these goals. Success today requires not only strong fundamentals but also a robust digital presence, resource efficiency, and adaptability. These findings highlight the importance of blending traditional business strategies with modern digital practices, offering a roadmap for entrepreneurs navigating the complexities of today’s startup environment. This research enhances our understanding of contemporary success factors and provides a foundation for further study on the impact of digital strategies in entrepreneurship.
-References:
+# References:
+
 Saura, J.R.; Palos-Sanchez, P.; Grilo, A. Detecting Indicators for Startup Business Success: Sentiment Analysis Using Text Data Mining. Sustainability 2019, 11, 917. https://doi.org/10.3390/su11030917
 
 Saura, J.R.; Reyes-Menéndez, A.; deMatos, N.; Correia, M.B. Identifying Startups Business Opportunities from UGC on Twitter Chatting: An Exploratory Analysis. J. Theor. Appl. Electron. Commer. Res. 2021, 16, 1929-1944. https://doi.org/10.3390/jtaer16060108
